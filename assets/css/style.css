@@ -1,0 +1,32 @@
+body{
+    font-family: 'Raleway', sans-serif; 
+}
+
+#hero-section{
+    background-image: url("../img/bg-hero.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+#hero-section h1{
+    color: #FFFFFF;
+    font-weight: 400;
+    text-shadow: 2px 2px #5a5a5a;
+}
+
+#titulos-hero{
+    padding-top: 12rem;
+}
+
+#input-number{
+    margin-top: .5rem;
+}
+
+#instrucciones{
+    font-weight: 700;
+    text-shadow: 2px 2px #5a5a5a;
+}
