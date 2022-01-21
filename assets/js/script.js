@@ -5,7 +5,7 @@ $(document).ready(function () {
         let num = document.getElementById('input-number').value;
 
         //Validación rango númerico
-        if (num > 0 && num < 20) {
+        if (num > 0 && num <= 20) {
 
             //Ciclo for para multiplicación
             let multiplicacion = (num) => {
